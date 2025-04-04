@@ -8,6 +8,26 @@
         h2{
             color: crimson;
         }
+        h3{
+            color: rgb(166, 34, 218);
+        }
+        body{
+            background-color: rgb(160, 223, 223);
+        }
+        button{
+            color: rgb(58, 47, 79);
+            background-color: #00ff00;
+        }
+        /*prioritizes 1st because it is the next property */
+        *{
+            color: black;
+        }
+        #c2{
+            color: blue;
+        }
+        .r3{
+            color: brown;
+        }
     </style>
 </head>
 <body>
