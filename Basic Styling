@@ -1,1 +1,23 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Level 0</title>
+    <style>
+        h2{
+            color: crimson;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color: red;">Ayush Shivam</h1>
+    <h2>Anshuman Sinha</h2>
+    <h3>Arjun Roy</h3>
+    <p>Hello Friends!!!</p>
+    <p id="c2">Bye!!!</p>
+    <p class="r3">Hii!!!</p>
+    <p class="r3">What's up!!!</p>
+    <button>click me</button>
+</body>
+</html>
