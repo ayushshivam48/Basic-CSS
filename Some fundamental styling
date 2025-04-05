@@ -1,1 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Level 1</title>
+    <link rel="stylesheet" href="style1.css">
+    <style>
+        button{
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <div id="box">
+        Hii,I'm Ayush Shivam.
+    </div>
+    
+    <h2 class="heading">hiii</h2>
+    <h3 class="heading">bye</h3>
+    <h4 class="heading">see u</h4><br>
 
+    <button style="color: pink;">click here</button><br>
+
+    <h1>heading</h1>    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, dolor. Maiores molestiae error fuga eos saepe repudiandae sint soluta. Laborum nisi a saepe, ad impedit aliquam eaque error eligendi dignissimos.
+    Nihil eaque ut labore reiciendis commodi, repellendus quas minus neque magni tenetur aliquam maxime adipisci aut unde quos at laudantium? Quaerat optio, perferendis voluptate dolorem nulla suscipit natus reprehenderit a?
+    Ex porro dolore, ipsum modi, dolores reprehenderit doloribus debitis praesentium quaerat suscipit nesciunt maxime velit quos totam magni sapiente voluptatem aperiam temporibus fugiat enim tempora. Fuga eum enim reprehenderit rerum.
+    Cupiditate dolores quis ex. Quae similique iure enim soluta, error amet quo voluptatum unde esse rerum. Corporis non dicta maxime rem optio praesentium possimus, molestias aperiam doloremque. Praesentium, quod atque?
+    Totam vel possimus recusandae corporis. Architecto quod dignissimos pariatur? Asperiores molestiae, voluptate minus, quae corporis iusto iure cum laboriosam saepe consectetur ullam impedit ea rerum corrupti voluptates aperiam et neque.
+    Voluptates amet eius esse quo molestiae, cum perferendis ducimus suscipit eligendi ut quas beatae vel ex officiis voluptatem a earum quod placeat nisi in quos cupiditate temporibus quis! Quia, optio?
+    Harum, totam optio facilis, sint inventore esse maiores consequatur ducimus temporibus a sapiente reprehenderit modi mollitia accusantium suscipit veniam, nihil earum iusto? Repellat tempore fuga, eligendi vitae nisi unde debitis!
+    Corrupti inventore ut atque repellat fugit eius! Natus quam cum reprehenderit eius tempore facilis est fugiat fuga velit aliquam blanditiis dolorum ipsum error, magnam voluptas deserunt accusamus, quidem nemo quasi.</p>
+
+    <a href="https://www.google.com">click me</a>
+</body>
+</html>
