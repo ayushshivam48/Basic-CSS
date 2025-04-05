@@ -9,6 +9,37 @@
         button{
             color: blue;
         }
+        #box{
+            background-color: blue;
+            font-size: 60px;
+        }
+        
+        .heading{
+            color: red;
+        }
+        
+        button{
+            color: green;
+        }
+        
+        h1{
+            text-align: center;
+            text-decoration: aqua wavy underline;
+            font-weight: lighter;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            line-height: 150px;
+        }
+        
+        p{
+            text-align: center;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            text-transform: capitalize;
+        }
+        
+        a{
+            text-decoration: none;
+            font-weight: bolder;
+        }
     </style>
 </head>
 <body>
