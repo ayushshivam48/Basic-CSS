@@ -1,1 +1,24 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Level 2</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <h1>Heading</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit enim, nobis beatae id ipsa quibusdam atque. Qui, optio molestiae est iure inventore officia asperiores, modi, recusandae neque assumenda dolor fuga.
+    Officiis rem, assumenda nulla quod doloremque veritatis voluptatem voluptates modi quae recusandae dignissimos veniam nisi ratione corporis, inventore nihil at architecto nostrum perspiciatis error odit enim? Similique, sequi aliquam. Quisquam.
+    Quia, quidem voluptatem placeat consequatur totam perferendis eaque assumenda dignissimos numquam reiciendis commodi voluptatibus porro cumque deserunt ipsa nobis praesentium! Consequuntur quos necessitatibus repellat amet molestias consequatur expedita rem odio.
+    Laboriosam veritatis temporibus rerum deleniti placeat doloribus id praesentium facilis eum tempora non odit cum quidem voluptatibus dolor delectus fuga dolores ex mollitia, laborum quos. Eligendi dolor nobis suscipit vel.
+    Quo accusantium repellat explicabo odio temporibus vitae nam dicta voluptatem, ut quibusdam repellendus esse neque, quisquam obcaecati, sequi nulla veniam commodi aliquid itaque rem nemo? Ipsum provident culpa eveniet illo?
+    Impedit consequuntur dolorem deleniti at culpa et odit officia tenetur, omnis, commodi minima consectetur? Minus enim earum error nesciunt alias ipsam unde doloremque dolores quae, labore necessitatibus cum, nisi sequi?
+    Consectetur, ipsum assumenda nulla tenetur obcaecati iusto a doloribus eveniet. Consequatur tempora asperiores iste ipsum assumenda quidem quaerat, dignissimos velit sunt, cumque ratione temporibus, deleniti eveniet natus cupiditate voluptates alias.
+    Voluptatem unde voluptas rem iure provident cupiditate suscipit, harum doloribus sed quaerat quos dignissimos tempore, expedita ratione quis. Provident velit officiis minus tempore deserunt dignissimos quisquam nesciunt in, omnis reiciendis!</p>
+    <div id="box1">Outer
+        <div id="box2">Inner</div>
+    </div>
+    
+</body>
+</html>
