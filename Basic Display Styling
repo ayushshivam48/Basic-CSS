@@ -5,7 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CSS Level 4</title>
     <style>
-
+            div{
+                height: 100px;
+                width: 100px;
+                margin: 25px;
+                padding: 25px;
+                display: inline-block;
+            }
+            #b{
+                background-color: rgba(0,0,255,0.5);
+            }
+            #g{
+                background-color: green;
+                visibility: hidden;
+            }
+            #r{
+                background-color: red;
+            }
     </style>
 </head>
 <body>
