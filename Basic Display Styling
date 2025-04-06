@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Level 4</title>
+    <style>
 
+    </style>
+</head>
+<body>
+    <!--<div id="o">this is me.</div>  occupied whole area-->
+    <!--<button>click me!</button>  occupied limited area--> 
+
+    <h1>Display Playground</h1>
+    <br>
+    <div id="b">BOX1</div>
+    <div id="g">BOX2</div>
+    <div id="r">BOX3</div>
+</body>
+</html>
