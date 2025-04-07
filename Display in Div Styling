@@ -4,7 +4,42 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style5.css">
+    <style>
+            .contentbox{
+                height: 100px;
+                width: 100px;
+                border: 2px solid black;
+                display: inline-block;
+            }
+            *{
+                padding: 0;
+                margin: 0;
+                color: white;
+            }
+            
+            #navbar{
+                height: 60px;
+                background-color: black;
+            }
+            button{
+                background-color: #f08804;
+            }
+            #logo{
+                color: #f08804;
+                font-size: 25px;
+            }
+            a{
+                margin-right: 200px;
+                text-decoration: none;
+            }
+            #content{
+                height: 600px;
+            }
+            footer{
+                background-color: black;
+                text-align: center;
+            }
+    </style>
 </head>
 <body>
     <header>
