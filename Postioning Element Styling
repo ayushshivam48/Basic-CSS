@@ -4,6 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+            div{
+                height: 100px;
+                width: 100px;
+                background-color: aqua;
+                border: 2px solid black;
+                display: inline-block;
+            }
+            #box1{
+                position: static;
+            }
+            #box2{
+                position: relative;
+                left: 10px;
+                z-index: 1;
+            }
+            #box3{
+                position: absolute;
+                top: 500px;
+                left: 20px;
+            }
+            #box4{
+                position: fixed;
+                top: 0;
+            }
+            #box5{
+                position: sticky;
+                top: 0px;
+                left: 20px;
+            }
+    </style>
 </head>
 <body>
     <h1>Position Playground</h1>
