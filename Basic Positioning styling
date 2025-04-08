@@ -4,7 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style7.css">
+    <style>
+            div{
+                height: 200px;
+                width: 200px;
+                background-image: url("b9.jpg");
+                background-size: cover;
+                color: rgb(4, 109, 0);
+                position: fixed;
+                right: 0px;
+                top: 50px;
+            }
+    </style>
 </head>
 <body>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A incidunt eveniet distinctio ducimus assumenda aut consequatur quasi, quidem ad nihil itaque nam non numquam illum voluptatem. Eos dolorum consectetur quas?
