@@ -4,7 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style9.css">
+    <style>
+            .navbar{
+                background-color: bisque;
+                display: flex;
+                justify-content: space-evenly;
+            }
+            a{
+                text-decoration: none;
+                color: red;
+            }
+            li{
+                list-style-type: none;
+            }
+            .outer{
+                height: 400px;
+                width: 400px;
+                background-color: cadetblue;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .inner{
+                height: 100px;
+                width: 100px;
+                background-color: chocolate;
+            }
+            /*align self > align items (priority)*/
+    </style>
 </head>
 <body>
     
