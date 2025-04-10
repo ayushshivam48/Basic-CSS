@@ -4,7 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style12.css">
+    <style>
+            .loader{
+                height: 100px;
+                width: 100px;
+                border-radius: 50%;
+                border: 20px solid #4ECDC4;
+                border-top: 20px solid #F7FFF7;
+                animation: rotate 3s ease-in-out 0s infinite normal;
+            }
+            @keyframes rotate{
+                from{ transform: rotate(0deg);}
+                to{ transform: rotate(360deg);}
+            }
+    </style>
 </head>
 <body>
     <div class="loader"></div>
